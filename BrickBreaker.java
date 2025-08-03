@@ -287,4 +287,5 @@ public class BrickBreaker extends JPanel implements ActionListener, KeyListener 
         frame.setLocationRelativeTo(null);
         frame.setVisible(true);
     }
+    //this is it
 }
